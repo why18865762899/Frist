@@ -1,1 +1,1 @@
-#my-11m-journey
+# my-llm-journey
